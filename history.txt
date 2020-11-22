@@ -1,0 +1,292 @@
+    sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+      sc = Scrollbar(l)
+    sc.configure(command=l.yview)
+    l.config(yscrollcommand=sc.set)
+    sc.pack(side="right", fill=Y) 
+TIME : 2020-04-09 03:23:49.933503 
+ Text here....
+   
+TIME : 2020-04-22 04:46:50.249225 
+ Text here....
+   
+TIME : 2020-04-27 13:38:43.863746 
+ golu chalo movie dekhe
+   
+TIME : 2020-04-27 13:38:59.349688 
+ golu chalo movie dekhe
+   
+TIME : 2020-04-27 13:39:13.180281 
+ how ARE you
+   
+TIME : 2020-04-27 13:39:13.931719 
+ how ARE you
+   
+TIME : 2020-04-27 13:39:14.730128 
+ how ARE you
+   
+TIME : 2020-04-27 13:39:15.730391 
+ how ARE you
+  
